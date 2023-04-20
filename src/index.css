@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#main-nav {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: ghostwhite;
+}
+
+#main-nav ul {
+  display: flex;
+  gap: 2rem;
+}
+
+#home {
+  background-color: ghostwhite;
+}
+
+#home-movies {
+  text-align: center;
+  display: flex;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+main {
+  max-width: 30rem;
+  margin: 2rem auto;
+}
+
+ul, li {
+  list-style: none;
+}
+
+footer {
+  text-align: center;
+}

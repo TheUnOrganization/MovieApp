@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 
 function MainNavigation() {
     return (
-        <header>
+        <header id="main-nav">
             <nav>
                 <ul>
                     <li>
@@ -15,8 +15,8 @@ function MainNavigation() {
                         <NavLink>Signup</NavLink>
                     </li>
                     <li>
-                        <input type="text" placeholder="Username"/>
-                        <input type="password" placeholder="Password"/>
+                        <input type="text" size="12" placeholder="Username"/>
+                        <input type="password" size="12" placeholder="Password"/>
                         <input type="submit" value="Login"/>
                     </li>
                 </ul>
