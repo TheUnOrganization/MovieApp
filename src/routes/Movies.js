@@ -18,6 +18,7 @@ function Movies() {
                 <img src="poster2.jpg" alt="poster2" />
                 <p>Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who raids Slavic villages. He soon meets a seeress who reminds him of his vow -- save his mother, kill his uncle, avenge his father.
 </p>
+                <YouTubeEmbed embedId="oMSdFM12hOw" />
             </div>
             <div>
                 <h1>Doctor Strange in the Multiverse of Madness</h1>
@@ -25,6 +26,7 @@ function Movies() {
                 <img src="poster3.jpg" alt="poster3" />
                 <p>Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.
 </p>
+                <YouTubeEmbed embedId="aWzlQ2N6qqg" />
             </div>
             <div>
                 <h1>Ready Player One</h1>
@@ -32,6 +34,7 @@ function Movies() {
                 <img src="poster4.jpg" alt="poster4" />
                 <p>In 2045 the planet is on the brink of chaos and collapse, but people find salvation in the OASIS: an expansive virtual reality universe created by eccentric James Halliday. When Halliday dies, he promises his immense fortune to the first person to discover a digital Easter egg that's hidden somewhere in the OASIS. When young Wade Watts joins the contest, he finds himself becoming an unlikely hero in a reality-bending treasure hunt through a fantastical world of mystery, discovery and danger.
 </p>
+                <YouTubeEmbed embedId="cSp1dM2Vj48" />
             </div>
             <div>
                 <h1>The Matrix: Resurrections</h1>
@@ -39,6 +42,7 @@ function Movies() {
                 <img src="poster5.jpg" alt="poster5" />
                 <p>To find out if his reality is a physical or mental construct, Mr. Anderson, aka Neo, will have to choose to follow the white rabbit once more. If he's learned anything, it's that choice, while an illusion, is still the only way out of -- or into -- the Matrix. Neo already knows what he has to do, but what he doesn't yet know is that the Matrix is stronger, more secure and far more dangerous than ever before.
 </p>
+                <YouTubeEmbed embedId="CgjjMKP4ipg" />
             </div>
         </>
     );
