@@ -1,3 +1,7 @@
+import React from "react";
+import "../data/styles.css";
+import YouTubeEmbed from "../data/VideoEmbed";
+
 function Movies() {
     return (
         <>
@@ -6,6 +10,7 @@ function Movies() {
                 <p>2022 | 1h 46m | Action/Comedy</p>
                 <img src="poster1.jpg" alt="poster1" />
                 <p>Unfulfilled and facing financial ruin, actor Nick Cage accepts a $1 million offer to attend a wealthy fan's birthday party. Things take a wildly unexpected turn when a CIA operative recruits Cage for an unusual mission.</p>
+                <YouTubeEmbed embedId="x2YHPZMj8r4" />
             </div>
             <div>
                 <h1>The Northman</h1>
