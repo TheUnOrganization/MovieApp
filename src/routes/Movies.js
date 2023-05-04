@@ -11,6 +11,9 @@ function Movies() {
                 <img src="poster1.jpg" alt="poster1" />
                 <p>Unfulfilled and facing financial ruin, actor Nick Cage accepts a $1 million offer to attend a wealthy fan's birthday party. Things take a wildly unexpected turn when a CIA operative recruits Cage for an unusual mission.</p>
                 <YouTubeEmbed embedId="x2YHPZMj8r4" />
+                <p>Comment</p>
+                <textarea></textarea>
+                <input type="submit">Submit</input>
             </div>
             <div>
                 <h1>The Northman</h1>
@@ -19,6 +22,9 @@ function Movies() {
                 <p>Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who raids Slavic villages. He soon meets a seeress who reminds him of his vow -- save his mother, kill his uncle, avenge his father.
 </p>
                 <YouTubeEmbed embedId="oMSdFM12hOw" />
+                <p>Comment</p>
+                <textarea></textarea>
+                <input type="submit">Submit</input>
             </div>
             <div>
                 <h1>Doctor Strange in the Multiverse of Madness</h1>
@@ -27,6 +33,9 @@ function Movies() {
                 <p>Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.
 </p>
                 <YouTubeEmbed embedId="aWzlQ2N6qqg" />
+                <p>Comment</p>
+                <textarea></textarea>
+                <input type="submit">Submit</input>
             </div>
             <div>
                 <h1>Ready Player One</h1>
@@ -35,6 +44,9 @@ function Movies() {
                 <p>In 2045 the planet is on the brink of chaos and collapse, but people find salvation in the OASIS: an expansive virtual reality universe created by eccentric James Halliday. When Halliday dies, he promises his immense fortune to the first person to discover a digital Easter egg that's hidden somewhere in the OASIS. When young Wade Watts joins the contest, he finds himself becoming an unlikely hero in a reality-bending treasure hunt through a fantastical world of mystery, discovery and danger.
 </p>
                 <YouTubeEmbed embedId="cSp1dM2Vj48" />
+                <p>Comment</p>
+                <textarea></textarea>
+                <input type="submit">Submit</input>
             </div>
             <div>
                 <h1>The Matrix: Resurrections</h1>
@@ -43,6 +55,9 @@ function Movies() {
                 <p>To find out if his reality is a physical or mental construct, Mr. Anderson, aka Neo, will have to choose to follow the white rabbit once more. If he's learned anything, it's that choice, while an illusion, is still the only way out of -- or into -- the Matrix. Neo already knows what he has to do, but what he doesn't yet know is that the Matrix is stronger, more secure and far more dangerous than ever before.
 </p>
                 <YouTubeEmbed embedId="CgjjMKP4ipg" />
+                <p>Comment</p>
+                <textarea></textarea>
+                <input type="submit">Submit</input>
             </div>
         </>
     );
