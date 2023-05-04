@@ -14,6 +14,8 @@ function Movies() {
                 <p>Comment</p>
                 <textarea></textarea>
                 <input type="submit">Submit</input>
+                <p>Nick Cage needs to stop making movies. Really.</p>
+                <p>Meh, could've just watched The Rock on dvd instead.</p>
             </div>
             <div>
                 <h1>The Northman</h1>
@@ -25,6 +27,8 @@ function Movies() {
                 <p>Comment</p>
                 <textarea></textarea>
                 <input type="submit">Submit</input>
+                <p>Very thrilling and exciting.</p>
+                <p>Acting was average. There is better stuff on Netflix.</p>
             </div>
             <div>
                 <h1>Doctor Strange in the Multiverse of Madness</h1>
@@ -36,6 +40,8 @@ function Movies() {
                 <p>Comment</p>
                 <textarea></textarea>
                 <input type="submit">Submit</input>
+                <p>This movie was an absolute torture to watch. I'd rather stick with the first movie.</p>
+                <p>Benedict Cumberbatch always delivers!</p>
             </div>
             <div>
                 <h1>Ready Player One</h1>
