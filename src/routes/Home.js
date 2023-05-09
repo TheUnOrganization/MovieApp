@@ -1,4 +1,6 @@
-import products from './data/products'; 
+import poster1 from "../images/poster1.jpg";
+import poster2 from "../images/poster2.jpg";
+import poster3 from "../images/poster3.jpg";
 
 function Home() {
     return (
@@ -11,15 +13,15 @@ function Home() {
                 <h2>Featured Movies</h2>
                 <li id="home-movies">
                     <div>
-                        <img src="poster1.jpg" alt="poster1" />
+                        <img src={poster1} alt="poster1" />
                         <p>The Unbearable Weight of Massive Talent</p>
                     </div>
                     <div>
-                        <img src="poster2.jpg" alt="poster2" />
+                        <img src={poster2} alt="poster2" />
                         <p>The Northernman</p>
                     </div>
                     <div>
-                        <img src="poster3.jpg" alt="poster3" />
+                        <img src={poster3} alt="poster3" />
                         <p>Doctor Strange in the Multiverse of Madness</p>
                     </div>
                 </li>

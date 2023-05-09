@@ -13,7 +13,7 @@ function Movies() {
                 <YouTubeEmbed embedId="x2YHPZMj8r4" />
                 <p>Comment</p>
                 <textarea></textarea>
-                <input type="submit">Submit</input>
+                <input type="submit" />
                 <p>Nick Cage needs to stop making movies. Really.</p>
                 <p>Meh, could've just watched The Rock on dvd instead.</p>
             </div>
@@ -26,7 +26,7 @@ function Movies() {
                 <YouTubeEmbed embedId="oMSdFM12hOw" />
                 <p>Comment</p>
                 <textarea></textarea>
-                <input type="submit">Submit</input>
+                <input type="submit" />
                 <p>Very thrilling and exciting.</p>
                 <p>Acting was average. There is better stuff on Netflix.</p>
             </div>
@@ -39,7 +39,7 @@ function Movies() {
                 <YouTubeEmbed embedId="aWzlQ2N6qqg" />
                 <p>Comment</p>
                 <textarea></textarea>
-                <input type="submit">Submit</input>
+                <input type="submit" />
                 <p>This movie was an absolute torture to watch. I'd rather stick with the first movie.</p>
                 <p>Benedict Cumberbatch always delivers!</p>
             </div>
@@ -52,7 +52,7 @@ function Movies() {
                 <YouTubeEmbed embedId="cSp1dM2Vj48" />
                 <p>Comment</p>
                 <textarea></textarea>
-                <input type="submit">Submit</input>
+                <input type="submit" />
             </div>
             <div>
                 <h1>The Matrix: Resurrections</h1>
@@ -63,7 +63,7 @@ function Movies() {
                 <YouTubeEmbed embedId="CgjjMKP4ipg" />
                 <p>Comment</p>
                 <textarea></textarea>
-                <input type="submit">Submit</input>
+                <input type="submit" />
             </div>
         </>
     );
