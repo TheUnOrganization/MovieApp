@@ -1,3 +1,5 @@
+import products from './data/products'; 
+
 function Home() {
     return (
         <>
