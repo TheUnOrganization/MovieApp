@@ -12,6 +12,9 @@ function MainNavigation() {
                         <NavLink>Movies</NavLink>
                     </li>
                     <li>
+                        <NavLink>Now Playing</NavLink>
+                    </li>
+                    <li>
                         <NavLink>Signup</NavLink>
                     </li>
                     <li>
