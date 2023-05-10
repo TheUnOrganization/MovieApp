@@ -1,5 +1,9 @@
 import React from "react";
+import movies from "../data/movies"
 import styles from "../data/styles.css";
+import FaStar from "../data/FaStar"
+
+const API_KEY = "eeb14da9ca37e1ad3c064ebe64ac96ce"
 
 async function getNowPlaying () {
 
